@@ -24,23 +24,3 @@
 
 4. run `./bin/vidDisplay` to run the video display program.
 
-## Testing extensions
-
-- Sepia filter extension:
-
-1. run `./bin/vidDisplay`.
-
-2. press the `e` key to toggle the sepia filter on and off.
-
-- Video recoring extension:
-
-- I attempted to implement a video recording feature. It did not work on my machine so it I do not expect
-any credit for it. But you can attempt to run it on your machine as follows:
-
-1. run `./bin/vidDisplay`.
-
-2. press the `v` key to toggle the recording on and off.
-
-## Time travel days
-
-None
