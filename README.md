@@ -1,4 +1,4 @@
-# Project 1: Real-time filtering
+# Real-time filtering
 
 <b>Note</b>: Report can be found in the `report/` directory under the name `jake_van_meter_p1_report.pdf`.
 
