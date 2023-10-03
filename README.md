@@ -24,3 +24,31 @@
 
 4. run `./bin/vidDisplay` to run the video display program.
 
+## Current filters
+
+After running `./bin/vidDisplay`, filters can be toggled on and off by pressing
+specific keys. The currently implemented filters with their associated keys
+are as follows.
+
+<b>Note</b>: While running the program, press `s` at any time to save the
+image. If a filter is enabled, both the filtered and unfiltered version will
+be saved in this project directory.
+
+1. Greyscale: `g` or `h` (two different implementations)
+
+2. 5x5 Gaussian Blur: `b`
+
+3. Sobel X: `x`
+
+4. Sobel Y: `y`
+
+5. Gradient Magnitude: `m`
+
+6. Blur and Quantize: `l`
+
+7. Cartoon: `c`
+
+8. Brightness: `t` (must be pressed 6 times to restore to default)
+
+9. Sepia: `e`
+
